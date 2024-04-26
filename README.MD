@@ -10,4 +10,4 @@
  * amo livros
  * espero alcançar sucesso atraves dos estudos
 
-![alt text](image-2.png)
+![alt text](https://img.freepik.com/vetores-gratis/pilha-de-livros-de-design-plano-desenhado-a-mao_23-2149334862.jpg)
