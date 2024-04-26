@@ -1,1 +1,5 @@
-Seja bem-vindo ao meu Primeiro Repositório!
+# Meu Perfil
+
+## Amanda Rodrigues de Araujo
+
+### Estudo Desenvolvimento de Sistemas
